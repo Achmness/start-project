@@ -1,0 +1,11 @@
+.transaction-form-container {
+  display: flex;
+  max-width: 1000px;
+}
+
+.transaction-button {
+  border: solid 1px black;
+  width: 40vh;
+  height: 10vh;
+  margin-top: 10px;
+}

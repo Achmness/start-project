@@ -1,0 +1,34 @@
+.summary-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  max-width: 2000px;
+  max-height: 3000px;
+  gap: 20px;
+}
+
+.net-balamce, .total-expense, .total-income {
+  text-align: center;
+}
+
+.net-balamce {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 33%;
+  height: 15vh;
+}
+
+.total-income {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 33%;
+  height: 15vh;
+}
+
+.total-expense {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 33%;
+  height: 15vh;
+}
